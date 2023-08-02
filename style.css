@@ -31,14 +31,14 @@ body{
 }
 .inp1 {
     margin: 7px 30px 5px 20px;
-    width: 340px;
+    width: 300px;
     height: 30px;
     border: none;
 }
 
 .divinp {
     margin: 50px 100px;
-    width: 500px;
+    width: 380px;
     background-color: white;
     border-radius: 30px;
     display: flex;
